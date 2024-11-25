@@ -9,9 +9,9 @@ npm run dev
 # or
 yarn dev
 # or
-pnpm dev
+npm dev
 # or
-bun dev
+run dev
 
 
 
